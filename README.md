@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/595166/87035048-ad25eb80-c1e0-11ea-86bf-727385c3a4c4.gif" alt="animation1" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/595166/87035989-0b9f9980-c1e2-11ea-8720-d51776e61308.gif" alt="animation1" style="max-width:100%;">
 
 # PyChonk
 
