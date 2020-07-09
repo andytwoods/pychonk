@@ -1,32 +1,36 @@
-<img src="https://user-images.githubusercontent.com/595166/84776962-e485eb80-afd8-11ea-8933-dab0060db257.gif" alt="animation1" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/595166/87035048-ad25eb80-c1e0-11ea-86bf-727385c3a4c4.gif" alt="animation1" style="max-width:100%;">
 
 # PyChonk
 
 > List the installation sizes of your packages 
 
-> no dependencies, <2.3kb
+> no dependencies, <4kb
 
  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
 
-- Installed package creep over time? 
+- Package creep over time? 
 - Got a tight deployment environment like AWS lambda (<a href='https://github.com/Miserlou/Zappa/issues/556'><50MB</a>)? 
-- Find the chonkiest with this!
+- Find those chonky packages -- by disk space occupied
 
 ---
 
 ## Example usage
 
-```javascript
-python pychonk.py
+```
+pip install pychonk
+chonk()
 ```
 
 ---
 
-## Installation
-```
-pip install pychonk
-```
+### Next steps
+
+- Find chonky local files 
+- Verify works on Mac
+
+
+---
 
 ### Clone
 ```

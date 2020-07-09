@@ -61,6 +61,3 @@ def chonk(topx: int = None):
         suffix_spaces = ''.join([' ' for _ in range(loooongest_package_nam - len(p.name))])
 
         print(f"{p.name}{suffix_spaces} {mb} {size_indicator}")
-
-
-chonk()
