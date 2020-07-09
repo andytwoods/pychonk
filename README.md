@@ -2,7 +2,7 @@
 
 # PyChonk
 
-> List the installation sizes of your packages 
+> List the disk space used by your packages 
 
 > no dependencies, <4kb
 
@@ -11,7 +11,7 @@
 
 - Package creep over time? 
 - Got a tight deployment environment like AWS lambda (<a href='https://github.com/Miserlou/Zappa/issues/556'><50MB</a>)? 
-- Find those chonky packages -- by disk space occupied
+- Find those chonky packages -- by occupied disk space 
 
 ---
 
